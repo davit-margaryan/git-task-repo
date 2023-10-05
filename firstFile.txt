@@ -1,6 +1,6 @@
 one
-two
-tree
+two_changedFromClonedFolder
+tree_changedFromClonedFolder
 four
 five_secondModified
 six_secondModified
