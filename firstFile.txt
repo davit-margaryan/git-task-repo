@@ -4,6 +4,10 @@ tree_changedFromClonedFolder
 four
 five_secondModified
 six_secondModified
+seven
+eight
+nine
+ten
 seven_fromFirstFolder
 eight_fromFirstFolder
 nine_firstModified
